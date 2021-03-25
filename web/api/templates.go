@@ -28,7 +28,7 @@ import (
 	"net/url"
 )
 
-const GithubUrl = "https://api.github.com/repos/pufferpanel/templates/git/trees/v2"
+const GithubUrl = "https://api.github.com/repos/tringlle/templates/git/trees/v2"
 
 var client = http.Client{}
 
